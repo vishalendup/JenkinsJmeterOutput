@@ -1,9 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
-1536679125754,1958,HTTP Request,200,OK,Thread Group 1-2,text,true,,53936,133,2,2,1539,0,1168
-1536679125754,1986,HTTP Request,200,OK,Thread Group 1-1,text,true,,53933,133,2,2,1564,0,1168
-1536679157715,1560,HTTP Request,200,OK,Thread Group 1-2,text,true,,53935,133,2,2,1042,0,530
-1536679157746,1767,HTTP Request,200,OK,Thread Group 1-1,text,true,,53934,133,2,2,1340,0,499
-1536679189277,1427,HTTP Request,200,OK,Thread Group 1-2,text,true,,74542,133,2,2,1008,0,506
-1536679189512,1367,HTTP Request,200,OK,Thread Group 1-1,text,true,,53935,133,2,2,948,0,577
-1536679215697,1896,HTTP Request,200,OK,Thread Group 1-2,text,true,,53934,133,2,2,1481,0,1018
-1536679215697,1908,HTTP Request,200,OK,Thread Group 1-1,text,true,,54044,133,1,1,1483,0,1018
